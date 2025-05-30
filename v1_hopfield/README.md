@@ -63,4 +63,4 @@ https://exd1000.substack.com
 
 
 ---
-**License**: Apache License 2.0 — reuse allowed with attribution. Commercial exploitation or derivative frameworks require prior permission from the author.
+**License**:  Custom non-commercial terms apply. Based on the Apache License 2.0 — reuse allowed with attribution. **Commercial use or derivative frameworks require prior written permission from the author.**

@@ -2,6 +2,9 @@
 
 EXD-Net is a computational memory framework that simulates how instability (whether emotional, cognitive, or representational) drives memory drift, transformation, and identity remapping. Each version explores this theme using different architectures and representations.
 
+**Note: This project is licensed for non-commercial use only. See LICENSE for full terms.**
+
+
 ---
 
 ## Current Release
@@ -33,4 +36,4 @@ https://exd1000.substack.com
 
 ---
 
-**License**: Apache License 2.0 — reuse allowed with attribution. Commercial exploitation or derivative frameworks require prior permission from the author.
+**License**:  Custom non-commercial terms apply. Based on the Apache License 2.0 — reuse allowed with attribution. **Commercial use or derivative frameworks require prior written permission from the author.**

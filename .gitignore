@@ -2,5 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 .venv/
-test_envs/
+train_env/
+test_env/
+
 

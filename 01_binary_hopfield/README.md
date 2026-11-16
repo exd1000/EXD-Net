@@ -1,15 +1,7 @@
-# Binary Hopfield Networks
+# 01. Binary Hopfield Networks
 
-- A toy experiment on memory recall as competing patterns are added to a Hopfield network
+- A fun experiment on memory recall as competing patterns are added to a Hopfield network
 - I just wanted to see how new associations would affect recall and what the changes in similarity and energy would say
-
-## What I did
-
-- 7 scenes, each with an old pattern (ex), a new pattern (benji), and a background context (bg)
-- Converted images into 32 × 32 binary patterns (−1/+1)
-- Initially trained the network on the old patterns
-- Added new patterns over 30 randomly selected scene updates (keeping the initial weight contributions)
-- After each update, used a noisy context cue to test retrieval with asynchronous updates
 
 ## Questions
 
@@ -18,6 +10,14 @@
 - Does it reconstruct either pattern exactly?
 - How do the old/new target energies change during learning?
 - Are the patterns fixed points in the final weights?
+
+## What I did
+
+- 7 scenes, each with an old pattern (ex), a new pattern (benji), and a background context (bg)
+- Converted images into 32 × 32 binary patterns (−1/+1)
+- Initially trained the network on the old patterns
+- Added new patterns over 30 randomly selected scene updates (keeping the initial weight contributions)
+- After each update, used a noisy context cue to test retrieval with asynchronous updates
 
 ## What happened
 
